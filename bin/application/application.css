@@ -1,0 +1,38 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root{
+	-fx-background-image:url('tmpg1bjsn0z.png') ;
+	-fx-background-size:100% 100% ;
+}
+
+.level{
+	-fx-background-image:url('dinosaur1.jpeg') ;
+	-fx-background-size:100% 100% ;
+}
+
+.easy{
+	-fx-background-image:url('easymode1jpg.jpg') ;
+	-fx-background-size:100% 100% ;
+}
+
+.easyWin{
+	-fx-background-image:url('1-2-dinosaur-png-file.png') ;
+	-fx-background-size:cover ;
+}
+
+.medium{
+	-fx-background-image:url('medimode.jpeg') ;
+	-fx-background-size:100% 100% ;
+}
+
+.hard{
+	-fx-background-image:url('hardmode.jpg') ;
+	-fx-background-size:100% 100% ;
+}
+.duo{
+	-fx-background-image:url('duoduo.jpg') ;
+	-fx-background-size:100% 100% ;
+}
+.easyrule{
+	-fx-background-image:url('easyrule.jpg') ;
+	-fx-background-size:100% 100% ;
+}

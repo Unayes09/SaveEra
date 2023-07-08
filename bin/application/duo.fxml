@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.InitialController">
+   <center>
+      
+   </center>
+   <center>
+      <AnchorPane prefHeight="750.0" prefWidth="1400.0" styleClass="duo" stylesheets="@application.css" BorderPane.alignment="CENTER">
+         <children>
+            <Button layoutX="66.0" layoutY="44.0" mnemonicParsing="false" onAction="#backTolevel" prefHeight="26.0" prefWidth="72.0" style="-fx-background-color: orange;" text="Back">
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor></Button>
+            <Line endX="9.0" endY="605.4000244140625" layoutX="700.0" layoutY="145.0" startX="-0.60003662109375" startY="-145.0" />
+            <Label layoutX="66.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="116.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="166.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="216.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="266.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="316.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="366.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="416.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="466.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="516.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="788.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="838.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="888.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="938.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="988.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="1038.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="1088.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="1138.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="1188.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="1238.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="881.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="931.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="981.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="1031.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="1081.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="1131.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="1181.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="1231.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="1281.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="1331.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="1381.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="400.89990234375" endY="0.392913818359375" layoutX="888.0" layoutY="464.0" startX="-100.0" />
+            <Line endX="400.89990234375" endY="0.392913818359375" layoutX="886.0" layoutY="514.0" startX="-100.0" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="160.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="210.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="260.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="310.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="360.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="410.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="460.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="510.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="560.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="610.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="-93.60003662109375" endY="37.49285888671875" layoutX="660.0" layoutY="477.0" startX="-93.60003662109375" startY="-12.107086181640625" />
+            <Line endX="400.89990234375" endY="0.392913818359375" layoutX="166.0" layoutY="464.0" startX="-100.0" />
+            <Line endX="400.89990234375" endY="0.392913818359375" layoutX="166.0" layoutY="513.0" startX="-100.0" />
+            <Circle fx:id="circle_duo1" fill="DODGERBLUE" layoutX="341.0" layoutY="490.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" style="-fx-fill: green;" />
+            <Circle fx:id="circle_duo2" fill="DODGERBLUE" layoutX="1063.0" layoutY="490.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" style="-fx-fill: green;" />
+            <Label fx:id="duoscore1" layoutX="367.0" layoutY="44.0" prefHeight="62.0" prefWidth="302.0">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="duoscore2" layoutX="1097.0" layoutY="44.0" prefHeight="62.0" prefWidth="302.0">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="rightdin1" layoutX="788.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="rightdin2" layoutX="838.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="rightdin3" layoutX="888.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="rightdin4" layoutX="938.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="986.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="1036.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="1086.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="1136.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="rightdin5" layoutX="988.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="rightdin6" layoutX="1038.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="rightdin7" layoutX="1088.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="rightdin8" layoutX="1138.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="rightdin9" layoutX="1188.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="rightdin10" layoutX="1238.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="65.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="115.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="165.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="215.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="265.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="315.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="365.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="415.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="465.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="515.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="leftdin1" layoutX="65.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="leftdin2" layoutX="115.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="leftdin3" layoutX="165.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="leftdin4" layoutX="215.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="263.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="313.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="363.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="413.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="leftdin5" layoutX="265.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="leftdin6" layoutX="315.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="leftdin7" layoutX="365.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="leftdin8" layoutX="415.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="leftdin9" layoutX="465.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label fx:id="leftdin10" layoutX="515.0" layoutY="165.0" prefHeight="40.0" prefWidth="50.0" style="-fx-background-color: red; -fx-border-color: black;" styleClass="easyWin" stylesheets="@application.css" visible="false">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Button layoutX="672.0" layoutY="46.0" mnemonicParsing="false" onAction="#duo_start" onKeyPressed="#show" prefHeight="38.0" prefWidth="57.0" style="-fx-background-color: orange;" text="START">
+               <font>
+                  <Font name="Serif Bold" size="12.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Button>
+         </children>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor></AnchorPane>
+   </center>
+</BorderPane>

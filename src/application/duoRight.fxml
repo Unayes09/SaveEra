@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.InitialController">
+   <center>
+      
+   </center>
+   <center>
+      <AnchorPane prefHeight="750.0" prefWidth="1400.0" style="-fx-background-color: black;" BorderPane.alignment="CENTER">
+         <children>
+         
+            <Line endX="100.00006103515625" endY="531.0" layoutX="600.0" layoutY="221.0" startX="100.00006103515625" startY="-213.8000030517578" stroke="WHITE" strokeWidth="10.0" style="-fx-fill: red;" />
+            <Label layoutX="141.0" layoutY="196.0" prefHeight="290.0" prefWidth="391.0" style="-fx-background-color: black;" text="YOU LOSE" textFill="WHITE">
+               <font>
+                  <Font name="Arial Bold" size="48.0" />
+               </font>
+            </Label>
+            <Label layoutX="871.0" layoutY="196.0" prefHeight="290.0" prefWidth="391.0" style="-fx-background-color: black;" text="YOU WON" textFill="WHITE">
+               <font>
+                  <Font name="Arial Bold" size="48.0" />
+               </font>
+            </Label>
+            <Button layoutX="60.0" layoutY="78.0" mnemonicParsing="false" onAction="#backTolevel" style="-fx-background-color: orange;" text="BACK">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Button>
+         </children></AnchorPane>
+   </center>
+</BorderPane>
